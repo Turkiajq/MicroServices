@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Own\\ProfileService\\ProfileService.csproj": {}
+    "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Own\\MicroServices\\ProfileService\\ProfileService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Own\\ProfileService\\ProfileService.csproj": {
+    "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Own\\MicroServices\\ProfileService\\ProfileService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Own\\ProfileService\\ProfileService.csproj",
+        "projectUniqueName": "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Own\\MicroServices\\ProfileService\\ProfileService.csproj",
         "projectName": "ProfileService",
-        "projectPath": "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Own\\ProfileService\\ProfileService.csproj",
+        "projectPath": "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Own\\MicroServices\\ProfileService\\ProfileService.csproj",
         "packagesPath": "C:\\Users\\Turki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Own\\ProfileService\\obj\\",
+        "outputPath": "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Own\\MicroServices\\ProfileService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Turki\\AppData\\Roaming\\NuGet\\NuGet.Config",

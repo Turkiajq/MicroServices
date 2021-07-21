@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Own\\HealthService\\HealthService.csproj": {}
+    "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Own\\MicroServices\\HealthService\\HealthService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Own\\HealthService\\HealthService.csproj": {
+    "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Own\\MicroServices\\HealthService\\HealthService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Own\\HealthService\\HealthService.csproj",
+        "projectUniqueName": "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Own\\MicroServices\\HealthService\\HealthService.csproj",
         "projectName": "HealthService",
-        "projectPath": "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Own\\HealthService\\HealthService.csproj",
+        "projectPath": "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Own\\MicroServices\\HealthService\\HealthService.csproj",
         "packagesPath": "C:\\Users\\Turki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Own\\HealthService\\obj\\",
+        "outputPath": "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Own\\MicroServices\\HealthService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Turki\\AppData\\Roaming\\NuGet\\NuGet.Config",
